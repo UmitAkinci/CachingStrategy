@@ -1,0 +1,6 @@
+@CachingStrategy_HostAddress = http://localhost:5201
+
+GET {{CachingStrategy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpGxlvtH3zYKVxlYF5w9okRbAq2AgfpbPu1O0ZY1+sLOMm7afxohTdIPylJQCfJwMkO9ooNbg74Z9HCL2t+/Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uakinci\\source\\repos\\CachingStrategy\\CachingStrategy\\CachingStrategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\scrutor\\5.1.0\\scrutor.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

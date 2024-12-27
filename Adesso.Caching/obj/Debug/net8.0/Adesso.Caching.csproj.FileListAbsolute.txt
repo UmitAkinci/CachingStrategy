@@ -1,0 +1,12 @@
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\bin\Debug\net8.0\Adesso.Caching.deps.json
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\bin\Debug\net8.0\Adesso.Caching.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\bin\Debug\net8.0\Adesso.Caching.pdb
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.csproj.AssemblyReference.cache
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.AssemblyInfoInputs.cache
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.AssemblyInfo.cs
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\refint\Adesso.Caching.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\Adesso.Caching.pdb
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching\obj\Debug\net8.0\ref\Adesso.Caching.dll

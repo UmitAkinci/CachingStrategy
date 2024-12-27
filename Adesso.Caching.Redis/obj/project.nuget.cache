@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tioQX3uQ8UXk1cKeTmFgAY8jiAar6AbOPRahIx+T+f21jneeBgJBTa82Nhip5maULl+nB4NG9ecC0ZqiTaw4jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uakinci\\source\\repos\\CachingStrategy\\Adesso.Caching.Redis\\Adesso.Caching.Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\uakinci\\.nuget\\packages\\scrutor\\5.1.0\\scrutor.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

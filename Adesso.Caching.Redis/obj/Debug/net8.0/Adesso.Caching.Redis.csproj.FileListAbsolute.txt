@@ -1,0 +1,15 @@
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\bin\Debug\net8.0\Adesso.Caching.Redis.deps.json
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\bin\Debug\net8.0\Adesso.Caching.Redis.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\bin\Debug\net8.0\Adesso.Caching.Redis.pdb
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\bin\Debug\net8.0\Adesso.Caching.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\bin\Debug\net8.0\Adesso.Caching.pdb
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.csproj.AssemblyReference.cache
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.AssemblyInfoInputs.cache
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.AssemblyInfo.cs
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.csproj.CopyComplete
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\refint\Adesso.Caching.Redis.dll
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\Adesso.Caching.Redis.pdb
+C:\Users\uakinci\source\repos\CachingStrategy\Adesso.Caching.Redis\obj\Debug\net8.0\ref\Adesso.Caching.Redis.dll

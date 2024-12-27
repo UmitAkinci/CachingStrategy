@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingStrategy", "CachingStrategy\CachingStrategy.csproj", "{AE71900A-C560-4753-8B8C-CE1BD5033412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Caching", "Adesso.Caching\Adesso.Caching.csproj", "{C1860695-0D44-42D8-8738-1BF5360D5872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Caching.Redis", "Adesso.Caching.Redis\Adesso.Caching.Redis.csproj", "{CA784BEE-5F80-4D3B-8185-A21D9231B8FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adesso.Caching.Memcached", "Adesso.Caching.Memcached\Adesso.Caching.Memcached.csproj", "{EBCA05FA-BF9C-4514-BA92-7BFEB20802B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE71900A-C560-4753-8B8C-CE1BD5033412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE71900A-C560-4753-8B8C-CE1BD5033412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE71900A-C560-4753-8B8C-CE1BD5033412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE71900A-C560-4753-8B8C-CE1BD5033412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1860695-0D44-42D8-8738-1BF5360D5872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1860695-0D44-42D8-8738-1BF5360D5872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1860695-0D44-42D8-8738-1BF5360D5872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1860695-0D44-42D8-8738-1BF5360D5872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA784BEE-5F80-4D3B-8185-A21D9231B8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA784BEE-5F80-4D3B-8185-A21D9231B8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA784BEE-5F80-4D3B-8185-A21D9231B8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA784BEE-5F80-4D3B-8185-A21D9231B8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCA05FA-BF9C-4514-BA92-7BFEB20802B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCA05FA-BF9C-4514-BA92-7BFEB20802B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCA05FA-BF9C-4514-BA92-7BFEB20802B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCA05FA-BF9C-4514-BA92-7BFEB20802B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCEE596-38F2-47F4-8420-728B3F017ACE}
+	EndGlobalSection
+EndGlobal
